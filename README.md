@@ -1,4 +1,4 @@
-# 🚨 ESP32 Ambulance Priority Traffic Light (ESP-NOW)
+#  ESP32 Ambulance Priority Traffic Light (ESP-NOW)
 
 This project demonstrates an **IoT-based traffic management system** where an ambulance can wirelessly override traffic lights using ESP-NOW.
 
